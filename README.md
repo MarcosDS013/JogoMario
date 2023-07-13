@@ -1,5 +1,5 @@
 # Projeto de um Jogo
-# MarioJump  ![GitHub](https://img.shields.io/github/license/MarcosDS013/MarioJump)
+# MarioJump 
 Projeto Educacional, aprimorando o raciocínio lógico através de um jogo, utilizando... 
 
 [![tecnologias.png](https://i.postimg.cc/rmVvW9PP/tecnologias.png)](https://github.com/MarcosDS013/MarioJump/edit/main/README.md)
